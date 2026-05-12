@@ -32,7 +32,7 @@
           <mxGeometry x="280" y="45" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-16" value="user" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.administrator;fillColor=#066A90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="84" y="280" width="21.5" height="50" as="geometry" />
+          <mxGeometry x="84" y="289" width="21.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-17" value="问题" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cloud_computing;fillColor=#066A90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="298" width="50" height="32" as="geometry" />
