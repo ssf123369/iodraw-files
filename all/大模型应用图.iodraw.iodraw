@@ -174,7 +174,7 @@
           <mxGeometry x="840" y="200" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-56" value="提示词工程&lt;div&gt;（Prompt Engineering）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="271.75" y="620" width="138.25" height="60" as="geometry" />
+          <mxGeometry x="360" y="600" width="138.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
