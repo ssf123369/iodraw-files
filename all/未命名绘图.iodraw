@@ -37,11 +37,13 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-17" value="问题" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cloud_computing;fillColor=#066A90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="274" y="298" width="50" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-18" target="rURZLRefp_QlA2LYCzV3-5">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="626.5" y="113.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="495" y="170" />
-              <mxPoint x="680" y="170" />
+              <mxPoint x="441.5" y="195" />
+              <mxPoint x="626.5" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
