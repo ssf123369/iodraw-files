@@ -40,7 +40,7 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-16" target="rURZLRefp_QlA2LYCzV3-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-32" value="用户提出问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-22">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-32" value="用户上传日志文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-22">
           <mxGeometry x="-0.2419" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
