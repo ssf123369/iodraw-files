@@ -46,6 +46,9 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-17" target="rURZLRefp_QlA2LYCzV3-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="rURZLRefp_QlA2LYCzV3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-17" target="rURZLRefp_QlA2LYCzV3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-17" value="问题" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cloud_computing;fillColor=#066A90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="127.5" y="329" width="50" height="32" as="geometry" />
         </mxCell>
@@ -68,9 +71,6 @@
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-26" value="业务日志数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-89.25" y="45" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-27" target="rURZLRefp_QlA2LYCzV3-17">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="346.75" y="480" width="50" height="42.5" as="geometry" />
