@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1650" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-12" value="信息提取" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.storage;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="133.75" y="45" width="37.5" height="50" as="geometry" />
+          <mxGeometry x="100" y="45" width="37.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-16" target="rURZLRefp_QlA2LYCzV3-17">
           <mxGeometry relative="1" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="20" y="535" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-26" value="业务标准日志模板&lt;div&gt;（作为知识库RAG的数据集）&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-89.25" y="45" width="40" height="50" as="geometry" />
+          <mxGeometry x="-179.25" y="38.5" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-27" target="rURZLRefp_QlA2LYCzV3-24">
           <mxGeometry relative="1" as="geometry">
