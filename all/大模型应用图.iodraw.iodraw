@@ -22,6 +22,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rURZLRefp_QlA2LYCzV3-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-28">
+          <mxGeometry x="-0.083" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-7" value="Context（问题相关的数据块）" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.document;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="666.75" y="320" width="36.5" height="50" as="geometry" />
         </mxCell>
