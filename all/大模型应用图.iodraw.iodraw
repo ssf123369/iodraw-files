@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-8" value="Chunks（文本分块）" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nfvo;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="45" width="50" height="50" as="geometry" />
+          <mxGeometry x="360" y="45" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-26" target="rURZLRefp_QlA2LYCzV3-12">
           <mxGeometry relative="1" as="geometry">
@@ -123,7 +123,7 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-24" value="LLM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_controller;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="535" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-26" value="业务标准日志模板" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-26" value="业务标准日志模板&lt;div&gt;（作为知识库RAG）&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-89.25" y="45" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-27" target="rURZLRefp_QlA2LYCzV3-24">
