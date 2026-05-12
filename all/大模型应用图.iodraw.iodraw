@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-40" value="为组合精准的Prompt准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-28">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-40" value="为组合精准的Prompt做准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-28">
           <mxGeometry x="-0.083" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
