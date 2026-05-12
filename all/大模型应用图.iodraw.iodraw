@@ -54,13 +54,8 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-12" target="rURZLRefp_QlA2LYCzV3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-39" value="细分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-14">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-39" value="如何合理分割成不同的Chunks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-14">
           <mxGeometry x="-0.1849" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-14">
-          <mxGeometry x="-0.2912" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
