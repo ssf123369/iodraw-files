@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="rURZLRefp_QlA2LYCzV3-5" value="向量数据库" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.datacenter;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="51.5" width="50" height="37" as="geometry" />
+          <mxGeometry x="660" y="51.5" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.document;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="250" width="36.5" height="50" as="geometry" />
+          <mxGeometry x="666.75" y="240" width="36.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-8" target="rURZLRefp_QlA2LYCzV3-5">
           <mxGeometry relative="1" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-10" value="业务数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.vm_group;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="45" width="49.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rURZLRefp_QlA2LYCzV3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-12" target="rURZLRefp_QlA2LYCzV3-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-12" value="信息提取" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.storage;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="45" width="37.5" height="50" as="geometry" />
