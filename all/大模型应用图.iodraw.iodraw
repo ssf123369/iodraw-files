@@ -7,7 +7,7 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-5" target="rURZLRefp_QlA2LYCzV3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-37" value="检索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-15">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-37" value="如何进行合理的检索？&lt;div&gt;检索准确率直接会决定结果。&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-15">
           <mxGeometry x="-0.0285" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
