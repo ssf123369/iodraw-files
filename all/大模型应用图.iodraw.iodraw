@@ -33,7 +33,7 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-8" target="rURZLRefp_QlA2LYCzV3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-42" value="使用Embedding向量转化模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-11">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-42" value="使用Embedding模型转化向量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-11">
           <mxGeometry x="-0.0316" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
