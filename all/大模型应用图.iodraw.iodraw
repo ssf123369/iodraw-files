@@ -165,7 +165,7 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-52" value="BERT\ROBERTa\Word2Vec&lt;div&gt;\FAISS\Milvus\Pinecone&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="415" y="-60" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-54" value="BERT\ROBERTa\Word2Vec&lt;div&gt;\FAISS\Milvus\Pinecone&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-54" value="向量检索、语义检索、知识图谱、Reranking" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="200" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
