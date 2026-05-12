@@ -104,7 +104,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-34" value="根据用户向量匹配向量数据库获取最相关数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-21">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-34" value="根据用户向量匹配向量数据库获取最相关数据&lt;div&gt;如何计算的？&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-21">
           <mxGeometry x="-0.2062" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
