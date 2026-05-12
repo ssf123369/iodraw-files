@@ -98,6 +98,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rURZLRefp_QlA2LYCzV3-35" value="提交给大模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-31">
+          <mxGeometry x="0.3162" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-27" value="将问题和匹配的相关数据组合成Prompt" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="346.75" y="480" width="50" height="42.5" as="geometry" />
         </mxCell>
