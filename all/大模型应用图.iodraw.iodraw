@@ -141,14 +141,8 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-27" value="增强型Prompt&lt;div&gt;如何设计更高效&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="346.75" y="480" width="50" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rURZLRefp_QlA2LYCzV3-45" target="rURZLRefp_QlA2LYCzV3-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-45" value="Tika" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-45" y="98" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-46" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="193" width="120" height="60" as="geometry" />
+        <mxCell id="rURZLRefp_QlA2LYCzV3-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
