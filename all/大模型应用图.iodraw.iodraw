@@ -181,6 +181,9 @@
         <mxCell id="rURZLRefp_QlA2LYCzV3-56" value="提示词工程&lt;div&gt;（Prompt Engineering）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="550" width="138.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rURZLRefp_QlA2LYCzV3-60" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-260" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
