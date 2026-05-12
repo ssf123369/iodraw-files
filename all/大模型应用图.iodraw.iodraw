@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-40" value="为组合精准的Prompt做准备" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rURZLRefp_QlA2LYCzV3-28">
           <mxGeometry x="-0.083" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-7" value="Context（问题相关的数据块）&lt;div&gt;如何排序更高效？&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.document;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -120,7 +120,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rURZLRefp_QlA2LYCzV3-24" value="LLM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_controller;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rURZLRefp_QlA2LYCzV3-24" value="LLM&lt;div&gt;模型如何选择？&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_controller;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="535" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rURZLRefp_QlA2LYCzV3-26" value="业务标准日志模板&lt;div&gt;（作为知识库RAG的数据集）&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
